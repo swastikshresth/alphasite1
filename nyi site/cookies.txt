@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hibootstrap.com	TRUE	/	FALSE	1999999999	__cfduid	dcc1822365dd26185e95b5273339d3c841610340383
+templates.hibootstrap.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
